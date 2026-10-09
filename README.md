@@ -58,3 +58,32 @@ maquina-de-turing-java/
 ├── imagenes/                        # Grafos de estados e imágenes del proyecto
 ├── .gitignore
 └── README.md
+```
+
+## 💻 Requisitos e Instalación
+
+### Requisitos Previos
+- **JDK 8** o superior instalado.
+- NetBeans IDE, Eclipse o IntelliJ IDEA (opcional para desarrollo).
+
+### Pasos para Ejecutar
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/luas16/Maquina-de-Turing---suma-y-resta-.git](https://github.com/luas16/Maquina-de-Turing---suma-y-resta-.git)
+   cd maquina-de-turing-java
+   ```
+2. **Compilar y Ejecutar:**
+  Si utilizas la terminal con javac:
+   ```bash
+   javac src/Forms/*.java -d bin/
+   java -cp bin Forms.Principal
+   ```
+   O simplemente abre el proyecto en tu IDE favorito y ejecuta Principal.java.
+   
+## 👨‍💻 Autor
+
+- **Saúl Ernesto Coy Pop** - *Desarrollo e Implementación*
+  - 🖥️ **GitHub:** [@luas16](https://github.com/luas16)
+  - 📧 **Correo:** [coy.saul@gmail.com](mailto:coy.saul@gmail.com)
+
